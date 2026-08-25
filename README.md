@@ -42,12 +42,12 @@ contact: salikpatil2021@gmail.com
 ### 📡 LIVE STATS FEED
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalikahmadPatil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=00ffea&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalikahmadPatil&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=00ffea&currStreakLabel=39ff14" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SalikahmadPatil&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalikahmadPatil&theme=synthwave&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalikahmadPatil&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalikahmadPatil&layout=compact&theme=synthwave&hide_border=true" width="50%"/>
 </p>
 
 <p align="center">
