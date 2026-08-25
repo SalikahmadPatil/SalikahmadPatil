@@ -18,7 +18,7 @@
 ```yaml
 name: Salikahmad Tanveerpasha Patil
 role: AI/ML Engineer :: Data Scientist
-status: BAAP TOH BAAP RAHEGA
+status: Ghya Shetta
 mission: Building intelligent systems that learn, adapt, and evolve
 contact: salikpatil2021@gmail.com
 ```
