@@ -18,8 +18,7 @@
 ```yaml
 name: Salikahmad Tanveerpasha Patil
 role: AI/ML Engineer :: Data Scientist
-status: Ghya Shetta
-mission: Building intelligent systems that learn, adapt, and evolve
+mission: Building intelligent systems that learn, adapt, and evolve . 
 contact: salikpatil2021@gmail.com
 ```
 
