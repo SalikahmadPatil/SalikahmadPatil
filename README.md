@@ -23,9 +23,9 @@ I'm a final-year **B.Tech student in Artificial Intelligence & Analytics**, pass
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Analytics** *(Final Year)*
 - 💼 Actively seeking **full-time roles** in AI/ML Engineering & Data Science
 - 🌱 Currently exploring **Generative AI**
-- 🔭 Currently working on: *[add your project name here]*
+- 🔭 Currently working on: **"Advo_Draft AI "**, an AI-powered software for automating legal document generation and reducing manual drafting for advocates.
 - 💬 Ask me about: Python, SQL, Data Science, Machine Learning
-- 🤝 Open to collaborating on Data Science / ML / Android projects
+- 🤝 Open to collaborating on Gen AI / ML / Data Science / Android projects
 - 📫 Reach me at: **salikpatil2021@gmail.com**
 
 <br clear="right"/>
